@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidESGI</string>
+
+    <string name="drawer_open">Ouvre le menu</string>
+    <string name="drawer_close">Ferme le menu</string>
+    <string name="api_key">5c59915d0ced5516f542d6ec01162f8d</string>
+    <string name="double_back_message">S\'il vous plaît cliquer à nouveau pour quitter</string>
+
+    <string-array name="menu_items">
+        <item>Rechercher</item>
+        <item>Derniers films</item>
+        <item>Mes favoris</item>
+    </string-array>
+
+    <string name="txt_date">Date : </string>
+    <string name="txt_realisator">Réalisateur : </string>
+    <string name="txt_actor">Principaux acteurs : </string>
+    <string name="txt_duration">Durée : </string>
+    <string name="txt_genre">Genre : </string>
+    <string name="txt_rate">Note : </string>
+    <string name="txt_resume">Résumé : </string>
+    <string name="button_favorite">Ajouter aux favoris</string>
+    <string name="toast_filmDetail">Acces au détail du film </string>
+    <string name="toast_research">Affichage des films que vous cherchez peut etre</string>
+    <string name="toast_welcome">Bienvenue sur FilmDroid</string>
+    <string name="add_to_favorite">Ajouter aux favoris</string>
+    <string name="remove_from_favorite">Retirer des favoris</string>
+</resources>
